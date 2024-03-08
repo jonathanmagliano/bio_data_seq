@@ -6,7 +6,7 @@ Solução Pythônica: Retornar determinados dados de uma sequência genética di
 - Biblioteca Python: Biopython 1.83+
 - Visual Studio Code ou sua IDE favorita
 - PIP (Sistema de gerenciamento de pacotes)
-(Opcional) Recomendado buscar utilizar o Virtualenv (ambiente virtual) sempre que possível para cada projeto. Estimulando boas práticas em Python.
+- (Opcional) Recomendado buscar utilizar o Virtualenv (ambiente virtual) sempre que possível para cada projeto. Estimulando boas práticas em Python.
 
 ## Exemplo: ID do GenBank como parâmetro
 ```
